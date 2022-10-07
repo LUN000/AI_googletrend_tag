@@ -5,5 +5,5 @@
 
 Concept: Embeds articles & keywords in to tokens then calculate the vectors similarity   
 ## Reference
-model -> https://github.com/amzn/pecos/tree/mainline/examples/MACLR <br>
-trend words -> https://github.com/GeneralMills/pytrends
+model: https://github.com/amzn/pecos/tree/mainline/examples/MACLR <br>
+trend words: https://github.com/GeneralMills/pytrends
