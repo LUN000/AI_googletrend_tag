@@ -1,0 +1,9 @@
+torch==1.7.1
+beir
+accelerate
+nltk
+pandas
+tqdm
+faiss-cpu==1.7.2
+faiss-gpu==1.7.2
+pytrends
