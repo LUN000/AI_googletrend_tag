@@ -7,3 +7,5 @@ tqdm
 faiss-cpu==1.7.2
 faiss-gpu==1.7.2
 pytrends
+uvicorn
+fastapi
