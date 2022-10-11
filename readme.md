@@ -1,12 +1,12 @@
 # AI_googletrend_tag
 
-## Introduction
-This is a project for tagging articles with trending keywords
+__This is a project for tagging articles with trending keywords__
 
 ## FastAPI Demo
 <img src="/demo/MACLR.gif">
 <img src="/demo/MACLR-res.png">
 
+```
 ## Structure
 Concept: Embeds articles & keywords in to tokens then calculate the vectors similarity
 
