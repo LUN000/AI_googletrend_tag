@@ -3,6 +3,9 @@
 ## Introduction
 This is a project for tagging articles with trending keywords
 
+## FastAPI Demo
+<img src="/demo/MACLR.gif">
+
 ## Structure
 Concept: Embeds articles & keywords in to tokens then calculate the vectors similarity
 
