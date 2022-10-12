@@ -25,5 +25,6 @@ pip install -r requirements.txt
 ```
 
 ## Reference
-model: https://github.com/amzn/pecos/tree/mainline/examples/MACLR <br>
-trend words: https://github.com/GeneralMills/pytrends
+pytrend: https://github.com/GeneralMills/pytrends<br>
+MACLR: https://github.com/amzn/pecos/tree/mainline/examples/MACLR<br>
+`For download pretrain model / training models, please check MACLR team's work`
