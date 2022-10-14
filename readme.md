@@ -6,6 +6,7 @@ __This is a project for tagging articles with trending keywords__
 
 Run app: `uvicorn main:app`<br>
 Swagger UI page: `http://127.0.0.1:8000/docs`<br>
+<br>
 <img src="/demo/MACLR.gif">
 <img src="/demo/MACLR-res.png">
 
