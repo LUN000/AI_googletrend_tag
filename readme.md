@@ -1,4 +1,4 @@
-# AI_googletrend_tag
+# AI_googletrend_tag [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 
 __This is a project for tagging articles with trending keywords__
 
